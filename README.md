@@ -2,7 +2,7 @@
 
 ## Introducción de GIT
 
-Este documento contiene información sobre la herramienta de GIT
+Este documento contiene información sobre la herramienta de GIT SIEMPRE LISTO 2 - 2024
 
 ## github
 GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos utilizando el sistema de control de versiones Git.
